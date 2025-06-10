@@ -12,7 +12,7 @@ export default function HeroSection() {
                 Semana da Estatística Unicamp 2025
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                Explorando as fronteiras da ciência estatística e suas aplicações no mundo moderno
+                Explorando as fronteiras da  estatística e suas aplicações no mundo moderno
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
