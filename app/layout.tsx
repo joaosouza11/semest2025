@@ -6,9 +6,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Academic Week of Statistics",
+  title: "SEMEST 2025",
   description:
-    "An academic week organized by statistics students showcasing the latest in statistical research and applications.",
+    "Semana Acadêmica da Estatística Unicamp 2025",
     generator: 'v0.dev'
 }
 
