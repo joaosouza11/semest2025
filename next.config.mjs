@@ -10,6 +10,10 @@ const nextConfig = {
     domains: ['placeholder.svg'],
     unoptimized: true,
   },
+  output: 'export',
+  images: {
+    unoptimized: true, // required if you're using <Image />
+  },
 }
 
 export default nextConfig
