@@ -86,7 +86,7 @@ export default function PartnersSection() {
                   : type.includes("Silver")
                     ? "secondary"
                     : type.includes("Bronze")
-                      ? "outline"
+                      ? "default" /*outline*/
                       : "default"
               }
             >
